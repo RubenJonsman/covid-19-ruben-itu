@@ -1,0 +1,587 @@
+commit fd6b8fbe917242f438762b9f77cc528bc6ae558c
+Author: rubj <rubj@itu.dk>
+Date:   Thu Mar 18 16:42:51 2021 +0100
+
+    something
+
+commit ef03e4edcd776c729b0a571c8367be7805a63e76
+Author: rubj <rubj@itu.dk>
+Date:   Thu Mar 18 16:42:33 2021 +0100
+
+    final... again
+
+commit a3a8895be12019c4d2ec0e9aa03192e8c43d7b92
+Author: Florian335 <flmi@itu.dk>
+Date:   Thu Mar 18 15:41:20 2021 +0100
+
+    FINAL2
+
+commit 96e09fda1c05719fe67efdeca9180a95ff3f0021
+Author: Florian335 <flmi@itu.dk>
+Date:   Thu Mar 18 15:38:54 2021 +0100
+
+    FINAL
+
+commit be497dfb5c9e47b844f51ca2e00fdbec8fb3c8b0
+Author: Florian335 <flmi@itu.dk>
+Date:   Thu Mar 18 13:36:15 2021 +0100
+
+    no outputs
+
+commit 5e2ff3628f299a7ceb422459cb50ba2d58a6e0bb
+Author: Florian335 <flmi@itu.dk>
+Date:   Thu Mar 18 13:34:39 2021 +0100
+
+    final_update
+
+commit e68d707f2b2a695d26c1afa10c7e45c582332291
+Author: klitdob <klit@itu.dk>
+Date:   Thu Mar 18 00:13:51 2021 +0100
+
+    corrected my comments
+
+commit f2b9d5f041ed6ef0fcb0aaff2a978940c0416c15
+Author: klitdob <klit@itu.dk>
+Date:   Wed Mar 17 18:31:44 2021 +0100
+
+    onemonth after lockdown with comments
+
+commit b998206bf3d30930a965b0686918d314eb2132fa
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 17 17:01:53 2021 +0100
+
+    no outputs
+
+commit 5d9c2d1d50c0b3a278e57688876ad0d718055ddf
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 17 17:01:26 2021 +0100
+
+    update_associations
+
+commit 8752c32d0e2c614bd5cf02f8435af552828abea1
+Merge: f19872c fbd25f6
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 17 16:57:19 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/fyp2021p02g10
+
+commit f19872cfdf19175074d4268d0e889aa71eebde58
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 17 16:57:08 2021 +0100
+
+    Revert "Update main_v3.0.ipynb"
+    
+    This reverts commit a1744a5c5d0fff17dd3e5b5db95a042f60629729.
+
+commit a1744a5c5d0fff17dd3e5b5db95a042f60629729
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 17 16:56:10 2021 +0100
+
+    Update main_v3.0.ipynb
+
+commit fbd25f63ea596fbbee5903f0968d61991ed03779
+Author: klitdob <klit@itu.dk>
+Date:   Wed Mar 17 16:46:24 2021 +0100
+
+    without output
+    
+    same before
+
+commit be22e3f7fa76813043aaf5b4bef1a140778832c9
+Author: klitdob <klit@itu.dk>
+Date:   Wed Mar 17 16:45:17 2021 +0100
+
+    Single variable change
+    
+    per region per capita - little changes
+
+commit 3fe9978f4d518734102d16ca399339717402f69a
+Author: Iben Mai Huse <ibhu@itu.dk>
+Date:   Wed Mar 17 14:28:43 2021 +0100
+
+    Update README.md
+
+commit c536124929d65e8fa9fdef20c5683e774e9000c4
+Author: klitdob <klit@itu.dk>
+Date:   Tue Mar 16 23:28:06 2021 +0100
+
+    scatter pairs for task4
+
+commit d02ed04175e1bf2498b1fd65c882f342b9f40787
+Author: IbenH <iben@midsund.dk>
+Date:   Tue Mar 16 18:40:37 2021 +0100
+
+    Create IbenNotebook.ipynb
+
+commit be29fec393e50291063837f632724835d0a5e444
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 16 18:31:02 2021 +0100
+
+    folders_swap
+
+commit a42287f1cef47471503d037e3eaabb7200f3b445
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 16 18:28:25 2021 +0100
+
+    semi_final_main
+
+commit 8fc3a7a0e352132bcd9ccd20e1f565824926477c
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 16 13:50:46 2021 +0100
+
+    calplots
+
+commit d2e9fa73bd58739a1f4acf0cce2b89f24fb7e026
+Merge: 917d091 bf4146b
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 16 12:20:39 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/fyp2021p02g10
+
+commit 917d09147d95d0dccdb26cb63e562827480cb5c7
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 16 12:18:44 2021 +0100
+
+    Update Project2_florian.ipynb
+
+commit bf4146b23f20697f0c125132fc50ef2c28046c1d
+Author: klitdob <klit@itu.dk>
+Date:   Tue Mar 16 00:18:53 2021 +0100
+
+    task4
+
+commit 46fae1a8798bc25349360a06bbb104a97b7a6039
+Author: klitdob <klit@itu.dk>
+Date:   Tue Mar 16 00:10:30 2021 +0100
+
+    num_sum, and task4
+    
+    not finished - explanation missing
+
+commit e30e3c22a8a895a5b0fe67d57eac6a53b8ed390b
+Author: Florian335 <flmi@itu.dk>
+Date:   Sun Mar 14 21:30:25 2021 +0100
+
+    final_association
+
+commit c7d329c4f8c2b056a375e82560f2cc44b4192c3a
+Author: Florian335 <flmi@itu.dk>
+Date:   Sun Mar 14 20:53:55 2021 +0100
+
+    update
+
+commit d10a93ffceda2ff93f1172763386210682fe0805
+Author: Florian335 <flmi@itu.dk>
+Date:   Sun Mar 14 19:13:20 2021 +0100
+
+    associations_update
+
+commit 10ce8141605ad270c18b9f3076385d857bab9033
+Author: Florian335 <flmi@itu.dk>
+Date:   Sun Mar 14 18:02:21 2021 +0100
+
+    update_main
+
+commit 86d08163383991e758e3c4c01cbae60faf3508e4
+Merge: e7fd338 158377b
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Sun Mar 14 15:59:05 2021 +0100
+
+    Merge pull request #19 from flmi/start
+    
+    task 4 merge weather + age
+
+commit 158377b67bf7dba1528867951042bb7c2a5d5be3
+Author: klitdob <klit@itu.dk>
+Date:   Sun Mar 14 15:58:42 2021 +0100
+
+    task 4 merge weather + age
+
+commit e7fd338bfb762f91d115606aeca19aa2ae4759da
+Merge: 55b2936 98371e5
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Sun Mar 14 15:03:32 2021 +0100
+
+    Merge pull request #18 from flmi/rubenv2
+    
+    updated main
+
+commit 98371e58508ce2b63e797be51a718529160f535a
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Sun Mar 14 15:02:21 2021 +0100
+
+    updated main
+
+commit 55b293618239951cd7167bea7ae63d07f33e3068
+Merge: f69a36d 045a963
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Sat Mar 13 18:23:53 2021 +0100
+
+    Merge pull request #17 from flmi/Task1-Task2
+    
+    some_changes
+
+commit 045a963ff506823d9ef253229d33f85dbd0cfe98
+Author: Florian335 <flmi@itu.dk>
+Date:   Sat Mar 13 18:23:24 2021 +0100
+
+    some_changes
+
+commit f69a36d7ca5829b48e696f224ed3e21b6d1d5a3d
+Merge: c89e853 92f8189
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Sat Mar 13 01:30:52 2021 +0100
+
+    Merge pull request #16 from flmi/start
+    
+    task4 associations, lin_reg
+
+commit 92f81899dca6160ab954c49f99fb91aedf15f300
+Author: klitdob <klit@itu.dk>
+Date:   Sat Mar 13 01:30:09 2021 +0100
+
+    task4 associations, lin_reg
+    
+    combined corona age data with weather - weekly/daily
+
+commit c89e853e27b65bcd25c23c0d1d797f874c1af68e
+Merge: 0bea0ee 4e0d69c
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Fri Mar 12 23:38:55 2021 +0100
+
+    Merge pull request #15 from flmi/Task1-+-Task0
+    
+    Task2 + Task 1 + Task 0_to be checked
+
+commit 0bea0ee44fb3a2f95bbf33b60efad51b14ec197e
+Author: Florian335 <flmi@itu.dk>
+Date:   Fri Mar 12 23:38:19 2021 +0100
+
+    update
+
+commit 4e0d69c9dc1e1e3d0fed4ba0b3e4fdad3ca6ab76
+Author: Florian335 <flmi@itu.dk>
+Date:   Fri Mar 12 23:36:49 2021 +0100
+
+    Task2 + Task 1 + Task 0_to be checked
+
+commit b5c55ce69b8f2e8a02745f91264eddd552b58eab
+Author: Florian335 <flmi@itu.dk>
+Date:   Fri Mar 12 22:18:20 2021 +0100
+
+    new plots
+
+commit a63d535b9f0d22ddcf9414b6751f81b14f2f186a
+Author: Florian335 <flmi@itu.dk>
+Date:   Fri Mar 12 17:05:35 2021 +0100
+
+    Update Project2_florian.ipynb
+
+commit 78b46eda183fc512d834bec046b96b714a687eb6
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 12 15:48:49 2021 +0100
+
+    gifs of maps
+
+commit 710305f2f37fbe8ef184b3b082fa255cd3d00219
+Merge: 3e13800 5055b71
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Fri Mar 12 14:31:56 2021 +0100
+
+    Merge pull request #14 from flmi/maps-and-loading-extra-data
+    
+    maps and additional data
+
+commit 5055b710291c35a7e849fc0357fa5071a77d8f12
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 12 14:29:28 2021 +0100
+
+    maps and additional data
+
+commit 3e13800c71f91869d7637ac4c594f92ee8344bd3
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 12 14:15:28 2021 +0100
+
+    more map stuff
+
+commit c7add40060e6a1af30335955feef0a3c0e661e41
+Merge: fdaf27c 7a98c84
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Thu Mar 11 14:06:08 2021 +0100
+
+    Merge pull request #13 from flmi/start
+    
+    task 4
+
+commit 7a98c84d60caf6673bec53bec406fc5d661aa8b1
+Author: klitdob <klit@itu.dk>
+Date:   Thu Mar 11 14:05:24 2021 +0100
+
+    task 4
+    
+    additional data - age in External
+
+commit fdaf27cb1b9027c1637d38b32f8b571927c87996
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 10 20:53:09 2021 +0100
+
+    associations
+
+commit 742fc7ec6072c1676ebac3b36e6ccfb387eb73d2
+Author: Florian335 <flmi@itu.dk>
+Date:   Wed Mar 10 16:39:35 2021 +0100
+
+    update
+
+commit 771908301c89f9b5751d2aacd4587a971bf6247f
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 9 20:31:47 2021 +0100
+
+    small_update
+
+commit 57dcd49e5ac7a21d78a0df96db117d6756405545
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 9 16:25:05 2021 +0100
+
+    small_update
+
+commit 8b138d2a5760e4ec7f9a58ae6f181cfa77efb36a
+Author: Florian335 <flmi@itu.dk>
+Date:   Tue Mar 9 16:14:24 2021 +0100
+
+    single_variable_analysis + creating_tables
+
+commit 16f3418ade65a9169488fffadea557237d66a191
+Merge: 9988fc5 2d084f7
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Tue Mar 9 13:54:57 2021 +0100
+
+    Merge pull request #12 from flmi/start
+    
+    weather data refined for plots
+
+commit 2d084f7e506de1c6a198835cda72c40a46c11099
+Author: klitdob <klit@itu.dk>
+Date:   Tue Mar 9 13:54:29 2021 +0100
+
+    weather data refined for plots
+
+commit 9988fc5c96ee3c05f04b3b035a79480eb7b2e13d
+Merge: 7c963f8 cdaa652
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Tue Mar 9 11:05:53 2021 +0100
+
+    Merge pull request #11 from flmi/start
+    
+    heatmaps finished
+
+commit cdaa652d451bafea56685d7893f02e286a9dae3f
+Author: klitdob <klit@itu.dk>
+Date:   Tue Mar 9 11:05:07 2021 +0100
+
+    heatmaps finished
+
+commit 7c963f82339ec6fb4098b6e001aa0f44bd7c95e4
+Merge: 2f154f0 2b61907
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Mar 9 01:10:31 2021 +0100
+
+    Merge pull request #10 from flmi/ruben_notebook
+    
+    a lot of maps, trying to do a animation
+
+commit 2b619078e3d380d67edee9e9a017ce395be30329
+Author: rubj <rubj@itu.dk>
+Date:   Tue Mar 9 01:10:09 2021 +0100
+
+    a lot of maps, trying to do a animation
+
+commit 2f154f06e537635ebdd973ddb4d1f63ea271513f
+Merge: 2999e59 cc2d34f
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Mon Mar 8 21:30:01 2021 +0100
+
+    Merge pull request #9 from flmi/ruben_notebook
+    
+    map vizualizations
+
+commit cc2d34f2a460724eabfbdef9896ce427e1edd15c
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Mon Mar 8 21:29:03 2021 +0100
+
+    map vizualizations
+
+commit 2999e5980f96d02117e75965cdfe12e4a3fcb65c
+Merge: 972ff36 4f71e82
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Mon Mar 8 00:44:54 2021 +0100
+
+    Merge pull request #8 from flmi/start
+    
+    num sum
+
+commit 4f71e82c059e976d3fe4bc090464b060650228bb
+Author: klitdob <klit@itu.dk>
+Date:   Mon Mar 8 00:41:05 2021 +0100
+
+    num sum
+
+commit 972ff367d775c368d2ae9e3fd8706b8cb3f189ef
+Merge: 8042b19 1d792d4
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Sat Mar 6 21:38:17 2021 +0100
+
+    Merge pull request #7 from flmi/Task-0-
+    
+    Task 0 - sanity check
+
+commit 8042b19614d978a9c2268dac511e1c335d161bfb
+Author: Florian335 <flmi@itu.dk>
+Date:   Sat Mar 6 21:37:37 2021 +0100
+
+    changes
+
+commit 9bbfb7d825f0c18a57f5bbb0c4ecc8de7af79211
+Author: Florian335 <flmi@itu.dk>
+Date:   Sat Mar 6 21:36:38 2021 +0100
+
+    Update Project2_florian.ipynb
+
+commit 1d792d493b864e4ed3015fd64f4f56181f0d2c7b
+Author: Florian335 <flmi@itu.dk>
+Date:   Sat Mar 6 21:35:45 2021 +0100
+
+    Task 0 - sanity check
+
+commit 5bd29000b94c11dabf6310eb4af07e382f66a162
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Fri Mar 5 22:14:39 2021 +0100
+
+    florian_project2
+
+commit 15f39389455623c17f3c133ebe0198d072363de5
+Merge: 9ec9497 08094b3
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Fri Mar 5 21:52:18 2021 +0100
+
+    Merge branch 'master' of https://github.itu.dk/flmi/fyp2021p02g10
+
+commit 9ec94978972e49d2c49f4643eb973bde0c77c4a6
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Fri Mar 5 21:52:02 2021 +0100
+
+    Create Project2_florian.ipynb
+
+commit 08094b3515df1397dd1ca31da574e526398d3e18
+Merge: 6133659 3c39b60
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Fri Mar 5 16:23:17 2021 +0100
+
+    Merge pull request #6 from flmi/ruben_notebook
+    
+    Ruben notebook
+
+commit 3c39b604a7c282bbb0909a84df8e7be2a8de7db7
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 5 16:22:39 2021 +0100
+
+    ee
+
+commit 857bf27cdd3ee498ed394834b008604833cdea32
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 5 16:22:27 2021 +0100
+
+    Exercise 2 and some initial map viszualitations
+
+commit 613365914d99e9b84ea73397c519549445c4e2f0
+Merge: 693fd42 076d020
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Fri Mar 5 15:22:11 2021 +0100
+
+    Merge pull request #5 from flmi/katastuff
+    
+    put in kata stuff
+
+commit 076d020ae58b524bd8b67614d4742695cf5932ea
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 5 15:21:40 2021 +0100
+
+    put in kata stuff
+
+commit 693fd42f6bf2689ab749af952a150fdcccc0322b
+Merge: 26eebf8 5397930
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Fri Mar 5 12:10:42 2021 +0100
+
+    Merge pull request #4 from flmi/ruben_notebook
+    
+    commit ruben notebook
+
+commit 539793086499cc740c91073a232dddea9681438d
+Author: rubj <rubj@itu.dk>
+Date:   Fri Mar 5 12:10:02 2021 +0100
+
+    commit ruben notebook
+
+commit 26eebf8da4c45577ba8e404c29448ff392297f56
+Merge: b640c9f 8cc6a3a
+Author: Katalin Literati-Dobos <klit@itu.dk>
+Date:   Thu Mar 4 14:12:48 2021 +0100
+
+    Merge pull request #3 from flmi/start
+    
+    start_kata
+
+commit 8cc6a3a43e2d60d627348154abd61dc60eeed990
+Author: klitdob <klit@itu.dk>
+Date:   Thu Mar 4 14:11:21 2021 +0100
+
+    start_kata
+
+commit b640c9f2e84bdfc548f0754ffad07f8aa8092301
+Merge: 93ddb09 1543f6a
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Mar 2 17:00:44 2021 +0100
+
+    Merge pull request #2 from flmi/fix_dataraw
+    
+    fix'ed data raw
+
+commit 1543f6afc275ac6151b4672778bf4903c2d3d542
+Author: rubj <rubj@itu.dk>
+Date:   Tue Mar 2 17:00:19 2021 +0100
+
+    fix'ed data raw
+
+commit 93ddb09e60a0e933f5e17279453c52b7b8a92a63
+Merge: 5588cd8 c940da1
+Author: Ruben Oliver Jonsman <rubj@itu.dk>
+Date:   Tue Mar 2 16:58:20 2021 +0100
+
+    Merge pull request #1 from flmi/notebook
+    
+    Notebook
+
+commit c940da14aabbb2ef69f8674d37c0e812dafa782e
+Author: rubj <rubj@itu.dk>
+Date:   Tue Mar 2 16:57:16 2021 +0100
+
+    Update main.ipynb
+
+commit faf16ed907400799d1743d3b875d62f964deca18
+Author: rubj <rubj@itu.dk>
+Date:   Tue Mar 2 16:57:03 2021 +0100
+
+    adding the notebookfile
+
+commit 5588cd81d4ecb28d13a2e81ddfdcd39f31edc1d5
+Author: Florian335 <74840629+Florian335@users.noreply.github.com>
+Date:   Tue Mar 2 16:44:23 2021 +0100
+
+    Folders
+
+commit d7a45167e32753771b19c6e8ff7076c858058ead
+Author: Florian Micliuc <flmi@itu.dk>
+Date:   Tue Mar 2 16:38:18 2021 +0100
+
+    Initial commit
